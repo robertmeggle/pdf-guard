@@ -1,0 +1,12 @@
+﻿# Ignore everything inside the extTools directory
+extTools/*
+
+# But keep the readme.md file (documenting usage of extTools)
+!extTools/readme.md
+
+# Ignore common Windows junk files
+Thumbs.db
+Desktop.ini
+
+# Ignore log files (e.g., from local tests or transcripts)
+*.log
