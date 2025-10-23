@@ -5,8 +5,8 @@ This project uses [qpdf](https://qpdf.sourceforge.io/) under the hood.
 
 ## Current status
 
-- ✅ Password protection implemented (set user/owner password)  
-- ⏳ Planned: password removal, watermarking, and more PDF utilities  
+- Password protection implemented (set user/owner password)  
+- Planned: password removal, watermarking, and more PDF utilities  
 
 ## Requirements
 
